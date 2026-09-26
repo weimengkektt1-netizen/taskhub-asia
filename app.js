@@ -1,4 +1,4 @@
-﻿// ========================================
+// ========================================
 // TaskHub - App
 // 用户端基础功能
 // ========================================
@@ -75,9 +75,9 @@ function fmtMoney(n) {
 // Supabase 配置
 // ========================================
 
-const SUPABASE_URL = "https://pkinowzrhteoduvrttdk.supabase.co";
+const SUPABASE_URL = "https://ddviqbyvyqgehuvbcobb.supabase.co";
 
-const SUPABASE_KEY = "sb_publishable_aPZF0KY7OFoDaZ_wIT60tg_2Hc_ctLT";
+const SUPABASE_KEY = "sb_publishable_K3fsBawDXYUZy_eCa3lrrQ_crUgjQJL";
 
 
 // ========================================
